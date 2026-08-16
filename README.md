@@ -1,5 +1,3 @@
-https://github.com/chipwalsworth/friendly-palm-tree
-
 # Number Guessing Game
 
 A command-line number guessing game written in Python.
@@ -22,3 +20,6 @@ Clone the repository or download the project files, then run:
 python number_guessing_game.py
 ```
 
+## Project Url
+
+https://roadmap.sh/projects/number-guessing-game
